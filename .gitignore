@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Graph-Algorithms Visualizer/task/build/
+/Graph-Algorithms Visualizer/task/out/
+/Graph-Algorithms Visualizer/task/out/production/classes/
